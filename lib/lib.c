@@ -5,7 +5,7 @@
 
 
 void f0(void) {
-	printf("f0()\n");
+	printf("f0()- from C lib\n");
 }
 
 void f1(int a) {
